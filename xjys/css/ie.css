@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+.identity .main .id_step li em{ height: 2px;}
+@media (min-width: 1200px) {
+	.p6 .o_box .o_list .info3{ width: 174px;}
+	
+}
+
